@@ -34,7 +34,8 @@ Pull requests of new projects/apps/libraries are welcome :)
     - [Visualization](#visualization)
     - [Web Frameworks](#web-frameworks)
     - [X11/Wayland](#x11wayland)
-   
+- [Learning](#learning)
+- [YouTube](#YouTube)
 - [Software](#software)
 
 ## Android
@@ -321,6 +322,12 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [RCSE](https://github.com/Rolisteam/rcse) - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 * [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide): A collection of good practices when writing QML code.
 * [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) - Free book created by Qt Company. It provides you with a walk through of the different aspects of application development using the new Qt 6. It focuses on the Qt Quick technology, but also provides necessary information about writing C++ back-ends and extension for Qt Quick.
+
+# YouTube
+* [Introduction to QML training course](https://www.youtube.com/watch?v=JxyTkXLbcV4&list=PL6CJYn40gN6hdNC1IGQZfVI707dh9DPRc) - Complete training on Qt Quick development
+* [Introduction to Qt Widget training course](https://www.youtube.com/watch?v=g7yijWiZTmI&list=PL6CJYn40gN6iFcTyItvnE5nOmJR8qk_7o) - Complete training on Qt Widgets development
+* [Qt Widgets and More](https://www.youtube.com/playlist?list=PL6CJYn40gN6gf-G-o6syFwGrtq3kItEqI) - (aka QWAM) YouTube series centered around Qt Widget
+* [QWAM for QML developers](https://www.youtube.com/watch?v=brOCE54-0xo&list=PL6CJYn40gN6jWHP5krsQrVGyYtKh3A3be) - QWAM is obviously a lot about Qt Widgets, but this playlist extracts the *and more* parts, which should be interesting to **QML developers** too.
 
 # Software
 * [files](https://github.com/lirios/files) - File manager.
